@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+.fontfam{
+    font-family: 'Borel', cursive;
+font-family: 'Inconsolata', monospace;
+}
